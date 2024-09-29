@@ -139,3 +139,48 @@
   padding: 0 25px;
   margin: 0;
 }
+
+.pod-free-counsel {
+  background-image: url(https://www.itschool.ro/_next/static/media/background.c097b26b.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 539px;
+}
+
+.pod-free-counsel .content {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+
+.pod-free-counsel .content h2 {
+  font-size: 40px;
+  font-weight: normal;
+  margin: 0;
+  padding-bottom: 30px;
+}
+
+.pod-free-counsel .content :nth-child(1) {
+  font-size: 18px;
+  padding: 110px 0 30px 0;
+  margin: 0;
+}
+
+.pod-free-counsel .content :nth-child(3) {
+  margin: 0;
+  font-size: 18px;
+  padding-bottom: 25px;
+}
+
+.counsel-btn-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.counsel-btn-div a {
+  font-size: 18px;
+}
